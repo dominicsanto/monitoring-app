@@ -1,8 +1,8 @@
 # Electron PC Stats Monitoring App
 > An electron application which minotors your current CPU and memory usage of your PC.
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/dominicsanto/monitoring-app/graphs/commit-activity)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dominicsanto/monitoring-app/issues)
 ![License](https://img.shields.io/badge/license-MIT-Yelloe)
 
 ![](images/screenshot.png)
@@ -37,4 +37,4 @@ Steps to contribute:
 Dominic Santo
 
 [Github](https://github.com/dominicsanto)
-[LinkedIn](https://www.linkedin.com/in/dominic-santo/)
+[LinkedIn](https://www.linkedin.com/in/dominic-santo-7318aa77/)
