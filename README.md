@@ -10,7 +10,7 @@
 ## Installation
 * Clone or download the repo
 
-  `git clone project-url`
+  `git clone git@github.com:dominicsanto/monitoring-app.git`
 
 * Install node modules within directory
 
